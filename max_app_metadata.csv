@@ -1,0 +1,8 @@
+﻿app_name,app_id,title,score,ratings,installs,size,updated,contains_ads,free,genre
+Number Match (Bitmango),com.bitmango.go.numbermatch,Number Match (Bitmango),,,,,,,,
+Number Match Puzzle,com.gram.games.numbermatch,Number Match Puzzle,,,,,,,,
+Sudoku,com.easybrain.sudoku.android,Sudoku.com - Classic Sudoku,4.744556,2405965.0,"100,000,000+",,1780432492.0,True,True,Puzzle
+Woodoku,com.tripledot.woodoku,Woodoku - Wood Block Puzzle,3.5216217,464162.0,"100,000,000+",,1779210760.0,True,True,Puzzle
+2048,com.androbaby.game2048,2048,4.499369,289699.0,"10,000,000+",,1777252814.0,True,True,Puzzle
+Brain Test,com.unicostudio.braintest,Brain Test: Tricky Puzzles,4.64574,9735473.0,"100,000,000+",,1781623812.0,True,True,Trivia
+Ludo King,com.ludo.king,Ludo King®,3.9914815,10268594.0,"1,000,000,000+",,1780925607.0,True,True,Board
